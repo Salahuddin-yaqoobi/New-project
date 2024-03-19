@@ -1,1 +1,1 @@
-# New-project
+First day of using git and github.
